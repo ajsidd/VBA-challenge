@@ -9,7 +9,6 @@ Dim yearly_change As Double
 Dim percent_change As Double
 Dim total_stock_volume As Double
 Dim previous_row As Double
-Dim table_row As Double
 Dim ws As Worksheet
 Dim increase_name As String
 Dim decrease_name As String
